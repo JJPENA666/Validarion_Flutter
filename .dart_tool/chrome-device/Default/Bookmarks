@@ -1,0 +1,73 @@
+{
+   "checksum": "1f0a28d346236a1944428c3d6a243d73",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13216739974774638",
+            "date_last_used": "0",
+            "guid": "840c4564-d00b-4fb2-9561-a7ef53b0c085",
+            "id": "7",
+            "name": "Pantalla de ingreso",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.servicioquest.com/comunes/Ingreso.php"
+         }, {
+            "date_added": "13228504861182516",
+            "date_last_used": "0",
+            "guid": "f600578b-af82-4b26-afba-98418123f3f8",
+            "id": "8",
+            "name": "Informacion Quest",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ph1.espaciolink.com:2096/cpsess4137008153/webmail/paper_lantern/index.html?login=1&post_login=93238833824577"
+         }, {
+            "date_added": "13345517437959852",
+            "date_last_used": "0",
+            "guid": "5dc8a760-d96f-4810-b7bd-fae7ad4fbada",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Chatear con GPT-4 en Bing",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=undexpand"
+         } ],
+         "date_added": "13346126120312643",
+         "date_last_used": "0",
+         "date_modified": "13345517437959852",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13346126120312654",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Otros favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13346126120312658",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos móviles",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCHQAZTKMAQAAKg4QABgBIAAoADAAOABAABIAIAEqGGMyZWxTTCtHRnQveVoxSnBPaDExL0E9PaAGDBKoAQgIEqMBChw5RmxCSDF2UTkyWWVFejBsOGI1bDZKaklXdUk9EiRmNjAwNTc4Yi1hZjgyLTRiMjYtYWZiYS05ODQxODEyM2YzZjgYACACKAIw8YCUk8MxOJKEy/ftL0Ds9JOTwzFKHDFTZHBRaksyREpUK1c3cE9EZ0dMSnVFZlo4az1aHyIdt2s2bjY5VHNnNlJGNkFsWHpHVnFNN3Nkc1RUcz1lo7/INhKJAQgBEoQBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiQ5NTY2MWZmMC05ZTA5LTViYzMtYTRmMC1kZGVjZTAwNWMzMTkYACAAKAAw2pKbvrEwOOaCy/ftL0Dmgsv37S9KHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEqcBCAcSogEKHEVFQnQ3eVcxZS9ieDRzdG9lTzZwSFhnME9mQT0SJDg0MGM0NTY0LWQwMGItNGZiMi05NTYxLWE3ZWY1M2IwYzA4NRgAIAIoAjDwgJSTwzE48oPL9+0vQOv0k5PDMUocNWgyYkRMMUkxZjZsTmdUT3FMZG9qSkdJS0wwPVoeIhxuTzM4TURMUURkSzN3V3IxeWQxMGZ2aVdLTE09ZWC1OAoSiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkNzMyMGUyN2QtZTk1YS01NWFlLWI4YTgtZTI1OWMwMTY0OGMzGAAgACgAMNqSm76xMDj1gsv37S9A9YLL9+0vShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKoAQgJEqMBChxKN2VBOEtIMUJCMTNZNzZaNWRieFl6aFpVeW89EiQ1ZGM4YTc2MC1kOTZmLTQ4MTAtYjdiZC1mYWU3YWQ0ZmJhZGEYACACKAIw74CUk8MxOO6F+fDAMUDt9JOTwzFKHEIydVdHUTRmSWN6d1E5emRseEJ4Z1l1THM2Yz1aHyId21N2ZE44bG9kd1dIMUxCT0p5amVKOUxnOEx2MD1ls3/IcxKJAQgDEoQBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQ1MTQ4NGQzNC04YWJiLTU1OTMtODUyZS1jMmVhZWM1MjY0NjUYACAAKAAw2pKbvrEwOMODy/ftL0DDg8v37S9KHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAMAA4AA==",
+   "version": 1
+}
